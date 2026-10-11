@@ -1,0 +1,13 @@
+nombre,aliases,categoria,higroscopicidad,notas
+sulfato de zinc,znso4;zinc sulfato;sulfato zinc,mineral_traza,alta,"EJEMPLO a validar con ficha tecnica. Sulfato hidratado; puede absorber humedad y apelmazar."
+sulfato de cobre,cuso4;sulfato cuprico;cobre sulfato,mineral_traza,media,"EJEMPLO a validar. Pentahidrato; pro-oxidante frente a vitaminas."
+sulfato ferroso,feso4;sulfato de hierro;hierro sulfato,mineral_traza,media,"EJEMPLO a validar. Se oxida con humedad y aire; puede cambiar de color."
+sulfato de manganeso,mnso4;manganeso sulfato,mineral_traza,media,"EJEMPLO a validar con ficha tecnica."
+oxido de zinc,zno;zinc oxido,mineral_traza,baja,"EJEMPLO a validar. Menos higroscopico que el sulfato."
+selenito de sodio,selenito;na2seo3,mineral_traza,baja,"EJEMPLO a validar. Usualmente en dosis muy bajas."
+sulfato de magnesio,mgso4;magnesio sulfato,mineral_macro,alta,"EJEMPLO a validar. Hidratado; puede absorber humedad."
+cloruro de colina,colina;choline chloride,colina,alta,"EJEMPLO a validar. Muy higroscopico; puede acelerar la degradacion de vitaminas."
+carbonato de calcio,caco3;calcio carbonato,mineral_macro,baja,"EJEMPLO a validar. Estable; util como diluyente."
+cloruro de sodio,sal;nacl,mineral_macro,baja,"EJEMPLO a validar."
+vitamina a,retinol;vitamina a acetato;retinil acetato,vitamina,baja,"EJEMPLO a validar. Sensible a oxidacion calor y humedad."
+vitamina c,acido ascorbico;ascorbato,vitamina,media,"EJEMPLO a validar. Sensible a oxidacion y humedad."
